@@ -1,0 +1,370 @@
+
+  {
+    "id": 1,
+    "name": "Essential",
+    "trans": "Olmazsa Olmaz",
+    "units": [
+      {
+        "id": 1,
+        "tag": "1000en",
+        "name": "Most frequent 1000 words in English",
+        "trans": "En sık kullanılan 1000 sözcük"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "People",
+    "trans": "İnsanlar",
+    "units": [
+      {
+        "id": 1,
+        "tag": "people-family",
+        "name": "The family",
+        "trans": "Aile"
+      },
+      {
+        "id": 2,
+        "tag": "people-life",
+        "name": "Birth, marriage and death",
+        "trans": "Doğum, evlilik ve ölüm"
+      },
+      {
+        "id": 3,
+        "tag": "people-body",
+        "name": "Parts of the body",
+        "trans": "Bedenin bölümleri"
+      },
+      {
+        "id": 4,
+        "tag": "people-cloth",
+        "name": "Clothes",
+        "trans": "Kıyafetler"
+      },
+      {
+        "id": 5,
+        "tag": "people-desc",
+        "name": "Describing people",
+        "trans": "İnsanları tanımlamak"
+      },
+      {
+        "id": 6,
+        "tag": "people-health",
+        "name": "Health and illness",
+        "trans": "Sağlık ve hastalık"
+      },
+      {
+        "id": 7,
+        "tag": "people-feeling",
+        "name": "Feelings",
+        "trans": "Duygular"
+      },
+      {
+        "id": 8,
+        "tag": "people-conv1",
+        "name": "Conversations 1: Greetings and wishes",
+        "trans": "Konuşmalar 1: Selamlama ve dilekler"
+      },
+      {
+        "id": 9,
+        "tag": "people-conv2",
+        "name": "Conversations 2: Useful words and expressions",
+        "trans": "Konuşmalar 2: Kullanışlı sözcükler ve ifadeler"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "At home",
+    "trans": "Evde",
+    "units": [
+      {
+        "id": 1,
+        "tag": "home-food",
+        "name": "Food and drink",
+        "trans": "Yiyecek ve içecekler"
+      },
+      {
+        "id": 2,
+        "tag": "home-kitchen",
+        "name": "In the kitchen",
+        "trans": "Mutfakta"
+      },
+      {
+        "id": 3,
+        "tag": "home-bed",
+        "name": "In the bedroom and bathroom",
+        "trans": "Yatak odası ve banyoda"
+      },
+      {
+        "id": 4,
+        "tag": "home-living",
+        "name": "In the living room",
+        "trans": "Oturma odasında"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "School and workplace",
+    "trans": "Okul ve işyerinde",
+    "units": [
+      {
+        "id": 1,
+        "tag": "work-job",
+        "name": "Jobs",
+        "trans": "Meslekler"
+      },
+      {
+        "id": 2,
+        "tag": "work-school",
+        "name": "At school and university",
+        "trans": "Okulda ve üniversitede"
+      },
+      {
+        "id": 3,
+        "tag": "work-communication",
+        "name": "Communications",
+        "trans": "İletişim"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Leisure",
+    "trans": "Dinlence",
+    "units": [
+      {
+        "id": 1,
+        "tag": "leisure-holiday",
+        "name": "Holidays",
+        "trans": "Tatiller"
+      },
+      {
+        "id": 2,
+        "tag": "leisure-shop",
+        "name": "Shops and shopping",
+        "trans": "Mağazalar ve alışveriş"
+      },
+      {
+        "id": 3,
+        "tag": "leisure-hotel",
+        "name": "In a hotel",
+        "trans": "Otelde"
+      },
+      {
+        "id": 4,
+        "tag": "leisure-eat",
+        "name": "Eating out",
+        "trans": "Dışarıda yemek"
+      },
+      {
+        "id": 5,
+        "tag": "leisure-sport",
+        "name": "Sports",
+        "trans": "Spor"
+      },
+      {
+        "id": 6,
+        "tag": "leisure-cinema",
+        "name": "Cinema",
+        "trans": "Sinema"
+      },
+      {
+        "id": 7,
+        "tag": "leisure-home",
+        "name": "Free time at home",
+        "trans": "Evde boş zaman"
+      },
+      {
+        "id": 8,
+        "tag": "leisure-music",
+        "name": "Music and musical instruments",
+        "trans": "Müzik ve müzikal aletler"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The world",
+    "trans": "Dünya",
+    "units": [
+      {
+        "id": 1,
+        "tag": "world-country",
+        "name": "Countries and nationalities",
+        "trans": "Ülkeler ve uluslar"
+      },
+      {
+        "id": 2,
+        "tag": "world-weather",
+        "name": "Weather",
+        "trans": "Hava durumu"
+      },
+      {
+        "id": 3,
+        "tag": "world-town",
+        "name": "In the town",
+        "trans": "Şehirde"
+      },
+      {
+        "id": 4,
+        "tag": "world-countryside",
+        "name": "In the countryside",
+        "trans": "Kırda"
+      },
+      {
+        "id": 5,
+        "tag": "world-animal",
+        "name": "Animals",
+        "trans": "Hayvanlar"
+      },
+      {
+        "id": 6,
+        "tag": "world-travel",
+        "name": "Travelling",
+        "trans": "Gezi"
+      },
+      {
+        "id": 7,
+        "tag": "world-uk-culture",
+        "name": "UK culture",
+        "trans": "İngiliz kültürü"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Social issues",
+    "trans": "Sosyal meseleler",
+    "units": [
+      {
+        "id": 1,
+        "tag": "issue-crime",
+        "name": "Crime",
+        "trans": "Suç"
+      },
+      {
+        "id": 2,
+        "tag": "issue-media",
+        "name": "The media",
+        "trans": "Medya"
+      },
+      {
+        "id": 3,
+        "tag": "issue-home",
+        "name": "Problems at home and work",
+        "trans": "Ev ve işteki sorunlar"
+      },
+      {
+        "id": 4,
+        "tag": "issue-global",
+        "name": "Global problems",
+        "trans": "Küresel sorunlar"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Everyday verbs",
+    "trans": "Gündelik fiiller",
+    "units": [
+      {
+        "id": 1,
+        "tag": "verb-phrasal",
+        "name": "Phrasal verbs",
+        "trans": "Deyimsel fiiller"
+      },
+      {
+        "id": 2,
+        "tag": "verb-everyday",
+        "name": "Everyday things",
+        "trans": "Gündelik şeyler"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Words and grammar",
+    "trans": "Sözcükler ve dil bilgisi",
+    "units": [
+      {
+        "id": 1,
+        "tag": "word-grammar-language",
+        "name": "Talking about language",
+        "trans": "Dil hakkında konuşmak"
+      },
+      {
+        "id": 2,
+        "tag": "word-grammar-conjuction",
+        "name": "Conjunctions and connecting words",
+        "trans": "Bağlaçlar ve sözcükleri bağlamak"
+      },
+      {
+        "id": 3,
+        "tag": "word-grammar-date",
+        "name": "Days, months, seasons",
+        "trans": "Günler, aylar, mevsimler"
+      },
+      {
+        "id": 4,
+        "tag": "word-grammar-time",
+        "name": "Time words",
+        "trans": "Zaman bildiren sözcükler"
+      },
+      {
+        "id": 5,
+        "tag": "word-grammar-place",
+        "name": "Places",
+        "trans": "Yerler"
+      },
+      {
+        "id": 6,
+        "tag": "word-grammar-manner",
+        "name": "Manner",
+        "trans": "Davranışlar"
+      },
+      {
+        "id": 7,
+        "tag": "word-grammar-uncountable",
+        "name": "Common uncountable nouns",
+        "trans": "Sayılamayan yaygın adlar"
+      },
+      {
+        "id": 8,
+        "tag": "word-grammar-adj1",
+        "name": "Common adjectives 1: Good and bad things",
+        "trans": "Yaygın önadlar (sıfatlar) 1: İyi ve kötü şeyler"
+      },
+      {
+        "id": 9,
+        "tag": "word-grammar-adj2",
+        "name": "Common adjectives 2: People",
+        "trans": "Yaygın önadlar (sıfatlar) 2: İnsanlar"
+      },
+      {
+        "id": 10,
+        "tag": "word-grammar-preposition",
+        "name": "Words and prepositions",
+        "trans": "Sözcükler ve ilgeçler (edat)"
+      },
+      {
+        "id": 11,
+        "tag": "word-grammar-prefix",
+        "name": "Prefixes",
+        "trans": "Önekler"
+      },
+      {
+        "id": 12,
+        "tag": "word-grammar-suffix",
+        "name": "Suffixes",
+        "trans": "Sonekler"
+      },
+      {
+        "id": 13,
+        "tag": "word-grammar-confusing",
+        "name": "Words you may confuse",
+        "trans": "Karıştırabileceğiniz sözcükler"
+      }
+    ]
+  }
